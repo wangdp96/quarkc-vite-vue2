@@ -19,7 +19,6 @@
     "vite-plugin-vue2": "^1.9.3"
   },
   "dependencies": {
-    "@esbuild/darwin-arm64": "^0.18.20",
     "husky": "^7.0.4",
     "vue": "^2.6.14",
     "vue-template-compiler": "^2.7.14",
